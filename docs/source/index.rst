@@ -18,12 +18,16 @@ Contents
    status_updates
    architecture
    fee_overview
+   accounts/index
    accessing/index
    citizenship
    file_mgmt/index
-   software/index
+   prog_env/index
    running_jobs/index
+   software/index
    visualization
    containers
+   services/index
+   debug_perf/index
    protected_data
    help
